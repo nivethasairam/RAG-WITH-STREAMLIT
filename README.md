@@ -1,7 +1,4 @@
-## Create Virtual Environment:
 
-python -m venv myenv
-myenv/scripts/activate
  ### Retrieval augmented Generation 
 
 This project allows users to **upload a PDF** or **provide a URL** along with their **Google API key** to ask queries. The chatbot processes the input and generates relevant responses based on the provided content.  
